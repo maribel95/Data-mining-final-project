@@ -1,0 +1,54 @@
+- Saber si nos conviene buscar trabajo en una empresa pequeña, mediana o 
+	grande, según sueldo. (Con un gráfico por colores o un anova podríamos verlo, aunque no lo hemos dado)
+
+- Saber si los salarios están aumentando o disminuyendo en el tiempo. (Regresión para ver tendencia)
+	* No hay muchos años para ver tendencia
+
+- Saber si hay asociaciones entre experiencia y tipo de trabajo. (Reglas de asociación)
+
+- Saber si hay asociaciones entre residencia trabajador, lugar de la empresa y ratio de 
+	trabajo remoto. (Reglas de asociación)
+	* Supongo que habrá
+
+- Estudiar si es más rentable ser freelance o no.
+	
+- Comprobar si hay diferencias en salario entre remoto, presencial y parcial. 
+
+- Agrupar trabajadores para saber si hay grupos que compartan características. (Clustering)
+
+- Predecir cuanto podríamos ganar tras acabar la carrera en unos cuantos países. (Regresión, perceptrón)
+
+- Dividir los salarios en tres grupos (bajo, medio y alto)
+
+	- Entrenar un modelo de clasificación (bayes, decision tree, kNN, etc...) y averiguar
+		en qué grupo de salario estaríamos nosotros (podemos comparar modelos)
+
+	- Entrenar decision tree y analizar los resultados del árbol para saber qué caracetrísticas
+		son más importantes para obtener mejores salarios (Tal vez se podría dividir en bajo y alto)
+
+
+
+
+
+
+-------------------------------------------------------------
+COSAS A TENER EN CUENTA
+
+- No hay NAs
+- Mirar outliers
+- Examinar datos
+
+- Explicar problema y todo lo que se hace
+
+- Tal vez usar subconjuntos
+- Se podría usar PCA para reducir la dimensionalidad (puede servir para graficar, ya que realmente
+	hay pocos)
+
+- Seleccionar adecuadamente las métricas usadas para evaluar
+
+- Tener en cuenta que si cambiamos parámetros tal vez es interesante comentarlo
+
+- Deberíamos usar solo la variable que utiliza el sueldo en USD, ya que queremos tener todos los salarios 
+	con la misma moneda. 
+
+- NO OLVIDAR BUENA CONCLUSIÓN

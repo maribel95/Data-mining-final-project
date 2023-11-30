@@ -1,0 +1,1020 @@
+"","experience_level","salary_currency","employee_residence","remote_ratio","company_location","company_size","job_title_clean","salary_factor","job_title_sector","living_index","adjusted_salary_in_usd","employee_works_where_lives"
+"1","MI","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1853.70027092542,TRUE
+"2","MI","USD","US","in-place","US","M","Machine Learning Engineer","LOW","AA",70.13,1283.33095679452,TRUE
+"3","MI","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"4","MI","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1425.92328532725,TRUE
+"5","MI","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,1212.03479252816,TRUE
+"6","MI","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,1112.22016255525,TRUE
+"7","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2295.73648937687,TRUE
+"8","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1568.51561385997,TRUE
+"9","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1939.25566804506,TRUE
+"10","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1482.96021674034,TRUE
+"11","SE","EUR","ES","in-place","ES","M","Data Scientist","LOW","AA",53.88,879.3429844098,TRUE
+"12","SE","EUR","ES","in-place","ES","M","Data Scientist","LOW","AA",53.88,703.470675575353,TRUE
+"13","EX","USD","US","in-place","US","M","Head of Data","HIGH","DE_lead",70.13,2923.14273492086,TRUE
+"14","EX","USD","US","in-place","US","M","Head of Data","MEDIUM","DE_lead",70.13,2281.4772565236,TRUE
+"15","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2409.81035220305,TRUE
+"16","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1577.07115357194,TRUE
+"17","EN","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,889.117013639627,TRUE
+"18","EN","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,711.299353912419,TRUE
+"19","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"20","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"21","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,3493.51204905176,TRUE
+"22","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"23","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"24","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"25","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3137.03122771995,TRUE
+"26","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2138.88492799087,TRUE
+"27","SE","USD","US","in-place","US","L","Data Scientist","HIGH","AA",70.13,2829.60216740339,TRUE
+"28","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2053.32953087124,TRUE
+"29","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3422.2158847854,TRUE
+"30","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2424.06958505632,TRUE
+"31","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2829.60216740339,TRUE
+"32","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2053.32953087124,TRUE
+"33","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"34","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"35","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1711.1079423927,TRUE
+"36","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1354.62712106089,TRUE
+"37","MI","GBP","GB","partial","GB","M","Data Scientist","LOW","AA",69.65,835.764536970567,TRUE
+"38","EN","USD","US","remote","US","L","Data Analyst","LOW","DA",70.13,912.59090260944,TRUE
+"39","EN","EUR","FR","partial","FR","L","Data Scientist","LOW","AA",74.13,539.714015917982,TRUE
+"40","SE","USD","CA","remote","CA","M","Machine Learning Engineer","HIGH","AA",70.22,2665.90714896041,TRUE
+"41","SE","USD","CA","remote","CA","M","Machine Learning Engineer","MEDIUM","AA",70.22,1653.37510680718,TRUE
+"42","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"43","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1810.92257236561,TRUE
+"44","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3921.28903464994,TRUE
+"45","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2367.03265364323,TRUE
+"46","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2277.18522743476,TRUE
+"47","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1981.14929416797,TRUE
+"48","EN","USD","US","partial","US","L","BI Analyst","LOW","DA",70.13,1083.70169684871,TRUE
+"49","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2377.01411664053,TRUE
+"50","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1696.84870953943,TRUE
+"51","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1853.70027092542,TRUE
+"52","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"53","SE","GBP","GB","in-place","GB","M","Data Analyst","MEDIUM","DA",69.65,1493.72577171572,TRUE
+"54","SE","GBP","GB","in-place","GB","M","Data Analyst","MEDIUM","DA",69.65,1333.68269921034,TRUE
+"55","SE","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,1140.7386282618,TRUE
+"56","SE","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,748.609724796806,TRUE
+"57","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3365.17895337231,TRUE
+"58","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2595.18037929559,TRUE
+"59","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"60","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"61","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,3208.32739198631,TRUE
+"62","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2230.14401825182,TRUE
+"63","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1924.99643519179,TRUE
+"64","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"65","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,2916.01311849423,TRUE
+"66","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2027.66291173535,TRUE
+"67","MI","USD","US","remote","US","M","Research Engineer","HIGH","DE",70.13,3422.2158847854,TRUE
+"69","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,4277.76985598175,TRUE
+"70","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"71","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2780.55040638814,TRUE
+"72","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2495.36574932269,TRUE
+"73","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2210.18109225724,TRUE
+"74","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1568.51561385997,TRUE
+"75","SE","USD","US","in-place","US","M","Data Operations Analyst","MEDIUM","DA",70.13,1753.88564095252,TRUE
+"76","SE","USD","US","in-place","US","M","Data Operations Analyst","MEDIUM","DA",70.13,1315.41423071439,TRUE
+"77","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2424.06958505632,TRUE
+"78","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2138.88492799087,TRUE
+"79","MI","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2566.66191358905,TRUE
+"80","MI","USD","US","remote","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1425.92328532725,TRUE
+"81","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1383.14558676743,TRUE
+"82","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,1283.33095679452,TRUE
+"83","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2851.8465706545,TRUE
+"84","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"85","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2994.43889918722,TRUE
+"86","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2566.66191358905,TRUE
+"87","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3707.40054185085,TRUE
+"88","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2566.66191358905,TRUE
+"89","EX","USD","US","remote","US","M","Data Analyst","HIGH","DA",70.13,2994.43889918722,TRUE
+"90","EX","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2238.69955796378,TRUE
+"91","EN","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"92","EN","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1425.92328532725,TRUE
+"93","MI","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,1140.7386282618,TRUE
+"94","MI","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,748.609724796806,TRUE
+"95","SE","USD","US","in-place","US","M","Data Architect","MEDIUM","DE",70.13,1825.18180521888,TRUE
+"96","SE","USD","US","in-place","US","M","Data Architect","LOW","DE",70.13,1162.12747754171,TRUE
+"97","SE","USD","US","in-place","US","M","Data Operations Engineer","MEDIUM","DE",70.13,1497.21944959361,TRUE
+"98","SE","USD","US","in-place","US","M","Data Operations Engineer","LOW","DE",70.13,998.146299729075,TRUE
+"99","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2495.36574932269,TRUE
+"100","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1746.75602452588,TRUE
+"101","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2438.3288179096,TRUE
+"102","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1668.33024383288,TRUE
+"103","SE","USD","US","in-place","US","L","Data Scientist","HIGH","AA",70.13,2891.77242264366,TRUE
+"104","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,1487.23798659632,TRUE
+"105","SE","EUR","ES","in-place","ES","M","Data Analyst","LOW","DA",53.88,937.954714179658,TRUE
+"106","SE","EUR","ES","in-place","ES","M","Data Analyst","LOW","DA",53.88,683.927245731255,TRUE
+"107","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2809.06887209468,TRUE
+"108","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1411.66405247398,TRUE
+"109","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"110","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1568.51561385997,TRUE
+"111","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2650.79138742336,TRUE
+"112","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"114","MI","USD","MX","remote","MX","L","Data Scientist","LOW","AA",35.35,848.656294200849,TRUE
+"115","MI","USD","BR","remote","BR","M","Data Analyst","LOW","DA",33.24,2346.57039711191,TRUE
+"116","MI","USD","BR","remote","BR","M","Data Analyst","LOW","DA",33.24,1444.04332129964,TRUE
+"117","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2424.06958505632,TRUE
+"118","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"119","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"120","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1354.62712106089,TRUE
+"121","MI","USD","BR","remote","BR","M","Data Engineer","LOW","DE",33.24,2346.57039711191,TRUE
+"122","MI","USD","BR","remote","BR","M","Data Engineer","LOW","DE",33.24,1263.53790613718,TRUE
+"123","SE","USD","US","in-place","US","M","Data Architect","HIGH","DE",70.13,4927.99087409097,TRUE
+"124","SE","USD","US","in-place","US","M","Data Architect","HIGH","DE",70.13,3285.32724939398,TRUE
+"125","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2067.58876372451,TRUE
+"126","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1639.81177812634,TRUE
+"127","MI","USD","BR","remote","BR","M","BI Analyst","LOW","DA",33.24,2346.57039711191,TRUE
+"128","MI","USD","BR","remote","BR","M","BI Analyst","LOW","DA",33.24,1444.04332129964,TRUE
+"129","SE","USD","US","remote","US","M","Data Analyst","HIGH","DA",70.13,2508.9120205333,TRUE
+"130","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1854.41323256809,TRUE
+"131","SE","USD","US","in-place","US","L","Data Engineer","HIGH","DE",70.13,2931.69827463282,TRUE
+"132","SE","USD","US","in-place","US","L","Data Engineer","MEDIUM","DE",70.13,1507.2009125909,TRUE
+"133","SE","USD","US","remote","US","M","Data Analyst","HIGH","DA",70.13,3373.73449308427,TRUE
+"134","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,1271.92357051191,TRUE
+"135","MI","USD","BR","remote","BR","M","Data Scientist","LOW","AA",33.24,2527.07581227437,TRUE
+"136","MI","USD","BR","remote","BR","M","Data Scientist","LOW","AA",33.24,1624.54873646209,TRUE
+"137","EN","USD","US","remote","US","L","Data Scientist","LOW","AA",70.13,1140.7386282618,TRUE
+"138","SE","USD","GB","remote","GB","S","Marketing Data Analyst","HIGH","DA",69.65,2871.50035893754,TRUE
+"139","EN","CAD","CA","remote","CA","L","Data Scientist","LOW","AA",70.22,1057.90373113073,TRUE
+"140","SE","USD","US","partial","US","S","Data Science Lead","MEDIUM","AA_lead",70.13,2352.77342078996,TRUE
+"141","EN","GBP","GB","partial","GB","L","Data Scientist","LOW","AA",69.65,480.114860014357,TRUE
+"142","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2650.79138742336,TRUE
+"143","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1843.71880792813,TRUE
+"144","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2409.81035220305,TRUE
+"145","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1577.07115357194,TRUE
+"148","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3208.32739198631,TRUE
+"149","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2625.12476828747,TRUE
+"150","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2650.79138742336,TRUE
+"151","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"152","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,3208.32739198631,TRUE
+"153","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2230.14401825182,TRUE
+"154","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2650.79138742336,TRUE
+"155","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"156","EN","USD","US","in-place","US","S","Machine Learning Engineer","MEDIUM","AA",70.13,1539.99714815343,TRUE
+"157","SE","USD","IN","remote","SG","L","Product Data Scientist","LOW","AA",24.43,327.466230045027,FALSE
+"158","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2210.18109225724,TRUE
+"159","SE","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,541.850848424355,TRUE
+"160","MI","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,1212.03479252816,TRUE
+"161","MI","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,926.850135462712,TRUE
+"162","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2210.18109225724,TRUE
+"163","SE","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,541.850848424355,TRUE
+"164","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1600.41636755205,TRUE
+"165","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1333.68269921034,TRUE
+"166","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2190.21816626266,TRUE
+"167","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1522.8860687295,TRUE
+"168","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2637.95807785541,TRUE
+"169","SE","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,712.961642663625,TRUE
+"170","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2650.79138742336,TRUE
+"171","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1843.71880792813,TRUE
+"172","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2210.18109225724,TRUE
+"173","SE","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,541.850848424355,TRUE
+"174","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2395.55111934978,TRUE
+"175","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1853.70027092542,TRUE
+"176","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1759.58933409383,TRUE
+"177","SE","USD","US","in-place","US","M","Data Scientist","LOW","AA",70.13,1256.23841437331,TRUE
+"178","SE","USD","US","remote","US","S","Data Scientist","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"179","SE","USD","US","remote","US","S","Data Scientist","LOW","AA",70.13,784.257806929987,TRUE
+"180","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2650.79138742336,TRUE
+"181","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"182","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2726.3653215457,TRUE
+"183","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"184","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2409.81035220305,TRUE
+"185","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1577.07115357194,TRUE
+"186","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"187","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1711.1079423927,TRUE
+"188","SE","USD","US","in-place","US","M","Data Science Consultant","MEDIUM","AA",70.13,1982.03336660488,TRUE
+"189","SE","USD","US","in-place","US","M","Data Science Consultant","MEDIUM","AA",70.13,1739.62640809924,TRUE
+"190","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2650.79138742336,TRUE
+"191","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"192","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1990.58890631684,TRUE
+"193","SE","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,1222.01625552545,TRUE
+"194","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2637.95807785541,TRUE
+"195","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,712.961642663625,TRUE
+"196","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2650.79138742336,TRUE
+"197","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1843.71880792813,TRUE
+"198","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,3208.32739198631,TRUE
+"199","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2230.14401825182,TRUE
+"200","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2851.8465706545,TRUE
+"201","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2495.36574932269,TRUE
+"202","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2650.79138742336,TRUE
+"203","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1843.71880792813,TRUE
+"204","MI","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,2117.49607871097,TRUE
+"205","MI","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,1400.25666619136,TRUE
+"206","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1639.81177812634,TRUE
+"207","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1354.62712106089,TRUE
+"208","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,3208.32739198631,TRUE
+"209","SE","USD","US","remote","US","M","Data Architect","LOW","DE",70.13,941.109368315985,TRUE
+"210","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2637.95807785541,TRUE
+"211","SE","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,712.961642663625,TRUE
+"212","SE","EUR","ES","in-place","ES","M","Data Scientist","LOW","AA",53.88,879.3429844098,TRUE
+"213","SE","EUR","ES","in-place","ES","M","Data Scientist","LOW","AA",53.88,703.470675575353,TRUE
+"214","MI","USD","US","in-place","US","M","Data Manager","MEDIUM","DE_lead",70.13,1910.73720233851,TRUE
+"215","MI","USD","US","in-place","US","M","Data Manager","MEDIUM","DE_lead",70.13,1397.4048196207,TRUE
+"216","MI","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1497.21944959361,TRUE
+"217","MI","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,884.072436902895,TRUE
+"218","EN","USD","US","remote","US","L","BI Analyst","LOW","DA",70.13,812.776272636532,TRUE
+"219","SE","CAD","CA","partial","CA","M","Big Data Engineer","MEDIUM","DE",70.22,2314.18399316434,TRUE
+"220","MI","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2056.18137744189,TRUE
+"221","MI","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1644.94510195351,TRUE
+"222","MI","AUD","AU","in-place","AU","L","Data Scientist","LOW","AA",77.75,1077.72347266881,TRUE
+"223","SE","INR","IN","remote","IN","L","Principal Data Architect","LOW","DE",24.43,1575.23536635284,TRUE
+"224","SE","EUR","PT","in-place","PT","M","Data Engineer","LOW","DE",47.94,1537.35919899875,TRUE
+"225","SE","EUR","PT","in-place","PT","M","Data Engineer","LOW","DE",47.94,878.473091364205,TRUE
+"226","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2424.06958505632,TRUE
+"227","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2138.88492799087,TRUE
+"228","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,2566.66191358905,TRUE
+"229","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"230","MI","USD","US","partial","US","L","Data Scientist","MEDIUM","AA",70.13,1539.99714815343,TRUE
+"231","SE","USD","US","remote","US","M","Machine Learning Manager","HIGH","AA_lead",70.13,2851.8465706545,TRUE
+"232","SE","USD","US","remote","US","M","Machine Learning Manager","MEDIUM","AA_lead",70.13,2138.88492799087,TRUE
+"233","EX","CAD","CA","partial","CA","L","Data Manager","MEDIUM","DE_lead",70.22,1807.26288806608,TRUE
+"234","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2690.71723941252,TRUE
+"235","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2287.10965350064,TRUE
+"236","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1653.12990161129,TRUE
+"237","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,1164.49451019535,TRUE
+"238","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,4277.76985598175,TRUE
+"239","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3208.32739198631,TRUE
+"240","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2829.60216740339,TRUE
+"241","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2053.32953087124,TRUE
+"242","SE","USD","US","remote","US","M","Applied Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"243","SE","USD","US","remote","US","M","Applied Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"244","SE","EUR","ES","in-place","ES","M","Data Analyst","LOW","DA",53.88,937.954714179658,TRUE
+"245","SE","EUR","ES","in-place","ES","M","Data Analyst","LOW","DA",53.88,683.927245731255,TRUE
+"246","MI","EUR","DE","remote","DE","S","Data Scientist","LOW","AA",65.58,1155.93168648978,TRUE
+"247","SE","USD","US","remote","US","L","Lead Data Scientist","MEDIUM","AA_lead",70.13,2236.81733922715,TRUE
+"248","SE","USD","NG","remote","NG","S","BI Analyst","HIGH","DA",30.49,6559.52771400459,TRUE
+"249","SE","USD","US","in-place","US","L","Data Scientist","HIGH","AA",70.13,2829.60216740339,TRUE
+"250","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2053.32953087124,TRUE
+"251","SE","EUR","PT","remote","PT","L","Lead Machine Learning Engineer","LOW","AA_lead",47.94,1449.49937421777,TRUE
+"252","MI","CZK","CZ","remote","CZ","M","NLP Engineer","LOW","AA",48.24,106.384742951907,TRUE
+"254","MI","EUR","DE","in-place","DE","S","Research Scientist","MEDIUM","AA",65.58,1926.56297651723,TRUE
+"255","MI","EUR","DE","in-place","DE","S","Research Scientist","LOW","AA",65.58,1284.37023482769,TRUE
+"256","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2851.8465706545,TRUE
+"257","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2566.66191358905,TRUE
+"258","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1539.99714815343,TRUE
+"259","MI","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,1212.03479252816,TRUE
+"260","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2994.43889918722,TRUE
+"261","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2566.66191358905,TRUE
+"262","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2352.77342078996,TRUE
+"263","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1882.21873663197,TRUE
+"264","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1853.70027092542,TRUE
+"265","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1568.51561385997,TRUE
+"266","MI","AUD","AU","partial","AU","L","BI Analyst","LOW","DA",77.75,583.768488745981,TRUE
+"268","MI","USD","US","remote","US","L","Data Analyst","MEDIUM","DA",70.13,1924.99643519179,TRUE
+"269","SE","USD","US","remote","US","L","Data Engineer","HIGH","DE",70.13,2549.55083416512,TRUE
+"270","SE","USD","US","remote","US","L","Data Engineer","MEDIUM","DE",70.13,1883.6446599173,TRUE
+"271","EN","USD","CR","partial","US","M","Data Analyst","LOW","DA",47.01,425.441395447777,FALSE
+"272","SE","USD","CA","in-place","CA","M","Machine Learning Engineer","MEDIUM","AA",70.22,1993.73397892338,TRUE
+"273","SE","USD","CA","in-place","CA","M","Machine Learning Engineer","MEDIUM","AA",70.22,1566.50526915409,TRUE
+"274","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"275","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,1212.03479252816,TRUE
+"276","SE","USD","US","remote","US","M","ETL Developer","HIGH","DE",70.13,3564.80821331812,TRUE
+"277","SE","USD","US","remote","US","M","ETL Developer","LOW","DE",70.13,898.331669756167,TRUE
+"278","EX","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2669.32839013261,TRUE
+"279","EX","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1655.49693426494,TRUE
+"280","MI","USD","TR","in-place","TR","M","Data Scientist","LOW","AA",28.31,353.232073472271,TRUE
+"281","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2851.8465706545,TRUE
+"282","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2067.58876372451,TRUE
+"283","SE","USD","US","in-place","US","L","Data Engineer","HIGH","DE",70.13,3279.59503778697,TRUE
+"284","SE","USD","US","in-place","US","L","Data Engineer","MEDIUM","DE",70.13,2203.693141309,TRUE
+"285","SE","USD","US","in-place","US","L","Data Scientist","HIGH","AA",70.13,3065.73506345359,TRUE
+"286","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2267.21802367033,TRUE
+"287","SE","USD","US","in-place","US","L","Data Engineer","HIGH","DE",70.13,3279.59503778697,TRUE
+"288","SE","USD","US","in-place","US","L","Data Engineer","MEDIUM","DE",70.13,2203.693141309,TRUE
+"289","EN","USD","US","remote","US","M","AI Scientist","LOW","AA",70.13,712.961642663625,TRUE
+"290","SE","USD","US","remote","US","L","Data Science Lead","HIGH","AA_lead",70.13,2609.43961214887,TRUE
+"291","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1422.35847711393,TRUE
+"292","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,975.331527163839,TRUE
+"293","SE","USD","US","remote","US","L","Data Scientist","HIGH","AA",70.13,3378.01226294025,TRUE
+"294","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,2270.06987024098,TRUE
+"295","SE","USD","US","remote","US","M","Data Science Manager","HIGH","AA_lead",70.13,3468.2019107372,TRUE
+"296","SE","USD","US","remote","US","M","Data Science Manager","HIGH","AA_lead",70.13,2563.45358619706,TRUE
+"297","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2495.36574932269,TRUE
+"298","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2138.88492799087,TRUE
+"299","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2994.43889918722,TRUE
+"300","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2566.66191358905,TRUE
+"301","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2110.36646228433,TRUE
+"302","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1825.18180521888,TRUE
+"303","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,2709.25424212177,TRUE
+"304","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"305","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1853.70027092542,TRUE
+"306","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1568.51561385997,TRUE
+"307","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"308","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"309","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"310","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,1212.03479252816,TRUE
+"311","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,3108.5127620134,TRUE
+"312","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2071.86653358049,TRUE
+"313","SE","USD","US","remote","US","L","Machine Learning Engineer","HIGH","AA",70.13,2786.25409952945,TRUE
+"314","SE","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,1872.23727363468,TRUE
+"315","EN","USD","CL","remote","US","L","Data Specialist","MEDIUM","DE",43.9,2391.79954441913,FALSE
+"316","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"317","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"318","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2951.66120062741,TRUE
+"319","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2181.66262655069,TRUE
+"320","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"321","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"322","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1568.51561385997,TRUE
+"323","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1411.66405247398,TRUE
+"324","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"325","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"326","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"327","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"328","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"329","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"330","SE","USD","PR","remote","PR","M","Machine Learning Engineer","HIGH","AA",66.53,3006.16263339847,TRUE
+"331","SE","USD","PR","remote","PR","M","Machine Learning Engineer","MEDIUM","AA",66.53,2029.15977754396,TRUE
+"332","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2951.66120062741,TRUE
+"333","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2181.66262655069,TRUE
+"334","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"335","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"336","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"337","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"338","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"339","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"340","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2790.53186938543,TRUE
+"341","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1860.82988735206,TRUE
+"342","SE","USD","US","remote","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1853.70027092542,TRUE
+"343","SE","USD","US","remote","US","M","Machine Learning Engineer","LOW","AA",70.13,1197.77555967489,TRUE
+"344","MI","USD","US","remote","US","M","Data Operations Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"345","MI","USD","US","remote","US","M","Data Operations Engineer","LOW","DE",70.13,855.55397119635,TRUE
+"346","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,1155.85068198134,TRUE
+"347","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,978.033022254128,TRUE
+"348","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2014.8296021674,TRUE
+"349","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1455.86767431912,TRUE
+"350","SE","EUR","ES","in-place","ES","M","Data Analyst","LOW","DA",53.88,937.954714179658,TRUE
+"351","SE","EUR","ES","in-place","ES","M","Data Analyst","LOW","DA",53.88,683.927245731255,TRUE
+"352","MI","USD","US","remote","US","L","BI Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"353","MI","GBP","GB","remote","GB","M","Data Scientist","MEDIUM","AA",69.65,1475.9368269921,TRUE
+"354","EN","INR","IN","partial","IN","M","Data Scientist","LOW","AA",24.43,945.149406467458,TRUE
+"355","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2053.32953087124,TRUE
+"356","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1611.29331241979,TRUE
+"357","EN","EUR","PT","remote","ES","M","AI Scientist","LOW","AA",47.94,658.86524822695,FALSE
+"358","SE","USD","US","remote","US","L","Data Architect","HIGH","DE",70.13,2786.25409952945,TRUE
+"359","SE","USD","US","remote","US","L","Data Architect","MEDIUM","DE",70.13,1872.23727363468,TRUE
+"360","SE","USD","US","remote","US","L","Machine Learning Engineer","HIGH","AA",70.13,2786.25409952945,TRUE
+"361","SE","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,1872.23727363468,TRUE
+"362","SE","USD","US","remote","US","L","Data Architect","HIGH","DE",70.13,2786.25409952945,TRUE
+"363","SE","USD","US","remote","US","L","Data Architect","MEDIUM","DE",70.13,1872.23727363468,TRUE
+"364","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,2709.25424212177,TRUE
+"365","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"366","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"367","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,1140.7386282618,TRUE
+"368","EN","INR","IN","remote","IN","M","BI Analyst","LOW","DA",24.43,332.378223495702,TRUE
+"369","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"370","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,1212.03479252816,TRUE
+"371","SE","USD","US","remote","US","L","Data Engineer","HIGH","DE",70.13,2549.55083416512,TRUE
+"372","SE","USD","US","remote","US","L","Data Engineer","MEDIUM","DE",70.13,1883.6446599173,TRUE
+"374","SE","EUR","FI","partial","FI","S","Machine Learning Engineer","LOW","AA",73.2,863.005464480874,TRUE
+"375","EN","USD","IN","remote","AS","L","BI Analyst","LOW","DA",24.43,2046.66393778142,FALSE
+"376","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1996.29259945815,TRUE
+"377","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1497.21944959361,TRUE
+"378","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,1155.85068198134,TRUE
+"379","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,978.033022254128,TRUE
+"380","SE","USD","US","remote","US","M","Data Analyst","HIGH","DA",70.13,2709.25424212177,TRUE
+"381","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1996.29259945815,TRUE
+"382","MI","USD","US","remote","US","M","Data Operations Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"383","MI","USD","US","remote","US","M","Data Operations Engineer","LOW","DE",70.13,855.55397119635,TRUE
+"384","SE","USD","US","remote","US","L","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"385","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,2352.77342078996,TRUE
+"386","SE","USD","US","in-place","US","L","Applied Machine Learning Scientist","MEDIUM","AA",70.13,1539.99714815343,TRUE
+"388","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,2709.25424212177,TRUE
+"389","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"390","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2558.10637387709,TRUE
+"391","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2195.92185940396,TRUE
+"392","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,2764.86525024954,TRUE
+"393","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"394","EX","USD","US","in-place","US","M","Data Science Manager","HIGH","AA_lead",70.13,3174.67560245259,TRUE
+"395","EX","USD","US","in-place","US","M","Data Science Manager","HIGH","AA_lead",70.13,2597.46185655212,TRUE
+"396","MI","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2138.88492799087,TRUE
+"397","MI","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"398","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1746.75602452588,TRUE
+"399","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"400","EX","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,4242.12177384857,TRUE
+"401","EX","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3707.40054185085,TRUE
+"403","SE","USD","ES","remote","US","M","Data Engineering Manager","HIGH","DE_lead",53.88,3582.03414996288,FALSE
+"404","EN","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1326.10865535434,TRUE
+"405","EN","USD","US","in-place","US","M","Data Scientist","LOW","AA",70.13,1040.92399828889,TRUE
+"406","MI","USD","US","remote","US","M","Data Operations Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"407","MI","USD","US","remote","US","M","Data Operations Engineer","LOW","DE",70.13,855.55397119635,TRUE
+"408","EN","BRL","BR","remote","BR","L","Data Analyst","LOW","DA",33.24,235.499398315283,TRUE
+"409","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1953.42934550121,TRUE
+"410","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1448.31028090689,TRUE
+"411","SE","USD","US","remote","US","M","ETL Developer","HIGH","DE",70.13,3564.80821331812,TRUE
+"412","SE","USD","US","remote","US","M","ETL Developer","LOW","DE",70.13,898.331669756167,TRUE
+"413","MI","USD","US","in-place","US","M","Data Manager","MEDIUM","DE_lead",70.13,1910.73720233851,TRUE
+"414","MI","USD","US","in-place","US","M","Data Manager","MEDIUM","DE_lead",70.13,1397.4048196207,TRUE
+"415","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"416","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"417","SE","EUR","FR","partial","FR","L","Director of Data Science","LOW","AA_lead",74.13,781.168217995414,TRUE
+"418","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1939.25566804506,TRUE
+"419","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1597.03407956652,TRUE
+"420","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2452.58805076287,TRUE
+"421","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"422","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3065.73506345359,TRUE
+"423","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2338.51418793669,TRUE
+"424","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,4277.76985598175,TRUE
+"425","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"426","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3564.80821331812,TRUE
+"427","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,898.331669756167,TRUE
+"428","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2566.66191358905,TRUE
+"429","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2138.88492799087,TRUE
+"431","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3564.80821331812,TRUE
+"432","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,898.331669756167,TRUE
+"433","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"434","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"435","MI","USD","US","remote","US","L","Data Analyst","MEDIUM","DA",70.13,1390.27520319407,TRUE
+"436","SE","USD","US","remote","US","M","Applied Scientist","HIGH","AA",70.13,3034.36475117639,TRUE
+"437","SE","USD","US","remote","US","M","Applied Scientist","MEDIUM","AA",70.13,2036.21845144731,TRUE
+"438","MI","EUR","NL","partial","NL","L","Data Scientist","LOW","AA",75.66,974.107850911975,TRUE
+"439","EN","USD","US","partial","DE","M","Data Scientist","LOW","AA",70.13,712.961642663625,FALSE
+"440","EN","INR","FR","remote","IN","L","Data Analyst","LOW","DA",74.13,86.5101848104681,FALSE
+"441","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2164.55154712676,TRUE
+"442","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1857.12248681021,TRUE
+"443","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2352.77342078996,TRUE
+"444","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1999.85740767147,TRUE
+"445","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"446","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1639.81177812634,TRUE
+"447","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2558.10637387709,TRUE
+"448","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2195.92185940396,TRUE
+"449","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"450","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"451","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"452","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"453","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"454","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"455","MI","USD","US","in-place","US","M","Financial Data Analyst","LOW","DA",70.13,1069.44246399544,TRUE
+"456","MI","EUR","GR","remote","GR","M","Data Engineer","LOW","DE",56.22,1498.20348630381,TRUE
+"457","MI","EUR","GR","remote","GR","M","Data Engineer","LOW","DE",56.22,1310.93916755603,TRUE
+"458","MI","GBP","GB","remote","GB","M","Data Engineer","MEDIUM","DE",69.65,1422.59870782484,TRUE
+"459","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,1244.76669059584,TRUE
+"460","MI","EUR","ES","remote","ES","M","Data Engineer","LOW","DE",53.88,1563.27023014105,TRUE
+"461","MI","EUR","ES","remote","ES","M","Data Engineer","LOW","DE",53.88,1367.87305122494,TRUE
+"462","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"463","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"464","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"465","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"466","SE","GBP","GB","remote","GB","M","Data Analyst","MEDIUM","DA",69.65,1482.62742282843,TRUE
+"467","SE","GBP","GB","remote","GB","M","Data Analyst","LOW","DA",69.65,1155.92246949031,TRUE
+"468","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"469","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"470","SE","GBP","GB","remote","GB","M","Data Engineer","MEDIUM","DE",69.65,1510.75376884422,TRUE
+"471","SE","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,1188.25556353195,TRUE
+"472","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"473","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"474","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"475","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"476","SE","USD","US","in-place","US","L","Data Analyst","MEDIUM","DA",70.13,1639.81177812634,TRUE
+"477","EN","EUR","ES","partial","ES","M","Data Scientist","LOW","AA",53.88,586.2286562732,TRUE
+"478","SE","USD","US","remote","US","M","Data Operations Analyst","LOW","DA",70.13,1154.99786111507,TRUE
+"479","SE","USD","US","remote","US","M","Data Operations Analyst","LOW","DA",70.13,941.109368315985,TRUE
+"480","EN","USD","US","remote","US","L","Data Analyst","LOW","DA",70.13,655.924711250535,TRUE
+"481","EN","USD","US","remote","US","L","Data Engineer","LOW","DE",70.13,1140.7386282618,TRUE
+"482","EX","USD","US","remote","US","S","Machine Learning Engineer","HIGH","AA",70.13,2851.8465706545,TRUE
+"483","EX","USD","US","remote","US","S","Machine Learning Engineer","HIGH","AA",70.13,2566.66191358905,TRUE
+"484","EX","USD","US","remote","US","S","AI Scientist","HIGH","AA",70.13,2851.8465706545,TRUE
+"485","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2910.30942535292,TRUE
+"486","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1940.68159133039,TRUE
+"487","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,3564.80821331812,TRUE
+"488","SE","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,898.331669756167,TRUE
+"489","MI","GBP","GB","in-place","GB","M","Data Scientist","MEDIUM","AA",69.65,1707.10696338837,TRUE
+"490","MI","GBP","GB","in-place","GB","M","Data Scientist","MEDIUM","AA",69.65,1600.41636755205,TRUE
+"492","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"493","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"494","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"495","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"496","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2730.28661058035,TRUE
+"497","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2018.03792955939,TRUE
+"498","SE","USD","US","remote","US","M","Data Specialist","MEDIUM","DE",70.13,1354.62712106089,TRUE
+"499","SE","USD","US","remote","US","M","Data Specialist","LOW","DE",70.13,998.146299729075,TRUE
+"500","MI","USD","BO","remote","US","M","Applied Machine Learning Scientist","LOW","AA",34.77,2157.03192407248,FALSE
+"502","MI","USD","US","in-place","US","L","Data Analyst","MEDIUM","DA",70.13,1611.29331241979,TRUE
+"503","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2424.06958505632,TRUE
+"504","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1853.70027092542,TRUE
+"505","MI","USD","US","remote","US","L","Data Analytics Consultant","MEDIUM","DA",70.13,1611.29331241979,TRUE
+"506","MI","USD","US","remote","US","M","Product Data Analyst","MEDIUM","DA",70.13,1996.29259945815,TRUE
+"508","MI","AUD","AU","remote","AU","M","BI Analyst","LOW","DA",77.75,691.536977491961,TRUE
+"509","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2495.36574932269,TRUE
+"510","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"511","EN","USD","AX","in-place","AL","L","3D Computer Vision Researcher","LOW","AA",68.97,33.6958097723648,FALSE
+"512","SE","EUR","PT","partial","PT","S","Lead Data Scientist","LOW","AA_lead",47.94,625.907384230288,TRUE
+"513","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,3564.80821331812,TRUE
+"514","SE","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,898.331669756167,TRUE
+"515","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"516","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,1701.12647939541,TRUE
+"517","MI","USD","US","partial","US","L","Research Scientist","MEDIUM","AA",70.13,2067.58876372451,TRUE
+"518","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1497.21944959361,TRUE
+"519","SE","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,1283.33095679452,TRUE
+"520","SE","USD","US","remote","US","M","ETL Developer","MEDIUM","DE",70.13,2084.69984314844,TRUE
+"521","SE","USD","US","remote","US","M","ETL Developer","MEDIUM","DE",70.13,1771.99486667617,TRUE
+"522","MI","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,3208.32739198631,TRUE
+"523","MI","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"524","MI","EUR","NL","remote","NL","S","Data Scientist","LOW","AA",75.66,723.618821041502,TRUE
+"525","SE","USD","CA","remote","CA","M","Data Engineer","HIGH","DE",70.22,2645.96980917118,TRUE
+"526","SE","USD","CA","remote","CA","M","Data Engineer","MEDIUM","DE",70.22,1956.70749074338,TRUE
+"527","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,3493.51204905176,TRUE
+"528","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,2566.66191358905,TRUE
+"529","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,2901.75388564095,TRUE
+"530","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2167.40339369742,TRUE
+"531","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3564.80821331812,TRUE
+"532","SE","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,898.331669756167,TRUE
+"533","SE","USD","US","remote","US","M","Machine Learning Infrastructure Engineer","HIGH","AA",70.13,2652.21731070868,TRUE
+"534","SE","USD","US","remote","US","M","Machine Learning Infrastructure Engineer","MEDIUM","AA",70.13,2121.77384856695,TRUE
+"535","SE","INR","IN","partial","IN","L","Lead Machine Learning Engineer","MEDIUM","AA_lead",24.43,3938.14981580025,TRUE
+"536","MI","GBP","GB","partial","GB","L","Machine Learning Engineer","MEDIUM","AA",69.65,1849.37544867193,TRUE
+"537","EN","USD","US","in-place","US","L","Data Scientist","LOW","AA",70.13,1169.25709396834,TRUE
+"539","MI","USD","US","partial","US","M","Applied Machine Learning Scientist","HIGH","AA",70.13,2466.84728361614,TRUE
+"540","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2901.75388564095,TRUE
+"541","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2167.40339369742,TRUE
+"542","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2652.21731070868,TRUE
+"543","SE","USD","US","remote","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2121.77384856695,TRUE
+"544","EN","BRL","BR","remote","BR","L","BI Analyst","LOW","DA",33.24,189.350180505415,TRUE
+"545","MI","USD","US","remote","US","M","Data Science Manager","MEDIUM","AA_lead",70.13,2252.95879081705,TRUE
+"546","MI","USD","US","remote","US","M","Data Science Manager","MEDIUM","AA_lead",70.13,1910.73720233851,TRUE
+"547","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2424.06958505632,TRUE
+"548","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"549","EX","USD","US","remote","US","M","Data Analyst","HIGH","DA",70.13,2851.8465706545,TRUE
+"550","EX","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"551","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,3082.84614287751,TRUE
+"552","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2054.75545415657,TRUE
+"553","MI","EUR","NL","in-place","NL","M","Data Scientist","MEDIUM","AA",75.66,1530.74279672218,TRUE
+"554","MI","EUR","NL","in-place","NL","M","Data Scientist","LOW","AA",75.66,1182.84430346286,TRUE
+"555","SE","USD","US","in-place","US","M","ETL Developer","HIGH","DE",70.13,3564.80821331812,TRUE
+"556","SE","USD","US","in-place","US","M","ETL Developer","LOW","DE",70.13,898.331669756167,TRUE
+"557","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"558","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,1212.03479252816,TRUE
+"559","SE","USD","US","remote","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1924.99643519179,TRUE
+"560","SE","USD","US","remote","US","M","Machine Learning Engineer","LOW","AA",70.13,1212.03479252816,TRUE
+"561","SE","USD","US","remote","US","M","Data Science Manager","HIGH","AA_lead",70.13,2937.40196777413,TRUE
+"562","SE","USD","US","remote","US","M","Data Science Manager","HIGH","AA_lead",70.13,2496.79167260801,TRUE
+"563","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,2704.26351062313,TRUE
+"564","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2352.71638385855,TRUE
+"565","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,2125.19606445173,TRUE
+"566","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,1624.12662198774,TRUE
+"567","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2195.92185940396,TRUE
+"568","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1796.66333951233,TRUE
+"569","SE","USD","US","remote","US","L","Machine Learning Engineer","HIGH","AA",70.13,2851.8465706545,TRUE
+"570","SE","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,2138.88492799087,TRUE
+"571","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2790.53186938543,TRUE
+"572","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1860.82988735206,TRUE
+"573","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2424.06958505632,TRUE
+"574","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1924.99643519179,TRUE
+"575","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1422.59870782484,TRUE
+"576","MI","GBP","GB","in-place","GB","M","Data Engineer","LOW","DE",69.65,1066.94903086863,TRUE
+"577","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1668.33024383288,TRUE
+"578","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1418.08070725795,TRUE
+"579","SE","USD","PR","remote","PR","M","Data Engineer","HIGH","DE",66.53,3006.16263339847,TRUE
+"580","SE","USD","PR","remote","PR","M","Data Engineer","MEDIUM","DE",66.53,2029.15977754396,TRUE
+"581","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,2764.86525024954,TRUE
+"582","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"583","EN","GBP","GB","remote","GB","S","Machine Learning Engineer","LOW","AA",69.65,800.201005025126,TRUE
+"584","SE","GBP","GB","in-place","GB","M","Data Analyst","LOW","DA",69.65,1244.76669059584,TRUE
+"585","SE","GBP","GB","in-place","GB","M","Data Analyst","LOW","DA",69.65,889.117013639627,TRUE
+"586","SE","USD","US","remote","US","M","Data Analyst","HIGH","DA",70.13,2495.36574932269,TRUE
+"587","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1853.70027092542,TRUE
+"588","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2682.16169970056,TRUE
+"589","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1994.29630685869,TRUE
+"590","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,3546.27121060887,TRUE
+"591","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2382.71780978183,TRUE
+"592","MI","INR","IN","remote","IN","S","Data Analyst","LOW","DA",24.43,236.266884977487,TRUE
+"593","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1759.58933409383,TRUE
+"594","SE","USD","US","in-place","US","M","Data Scientist","LOW","AA",70.13,1256.23841437331,TRUE
+"595","MI","EUR","DE","remote","DE","S","BI Analyst","LOW","DA",65.58,770.61604147606,TRUE
+"596","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,3493.51204905176,TRUE
+"597","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2923.14273492086,TRUE
+"598","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2014.8296021674,TRUE
+"599","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1455.86767431912,TRUE
+"600","SE","USD","US","in-place","US","M","Data Architect","MEDIUM","DE",70.13,2014.8296021674,TRUE
+"601","SE","USD","US","in-place","US","M","Data Architect","MEDIUM","DE",70.13,1455.86767431912,TRUE
+"602","EN","USD","AR","remote","AR","L","Data Analyst","LOW","DA",34.69,1441.33756125685,TRUE
+"603","EN","EUR","BE","remote","BE","L","Data Scientist","LOW","AA",72.61,1160.01928109076,TRUE
+"604","SE","BRL","BR","remote","BR","L","Data Scientist","LOW","AA",33.24,73.0445246690734,TRUE
+"605","MI","GBP","GB","partial","GB","S","Lead Data Scientist","LOW","AA_lead",69.65,889.117013639627,TRUE
+"606","SE","USD","US","in-place","US","M","Data Architect","HIGH","DE",70.13,3564.80821331812,TRUE
+"607","SE","USD","US","in-place","US","M","Data Architect","LOW","DE",70.13,898.331669756167,TRUE
+"608","SE","USD","US","remote","US","L","Data Science Manager","HIGH","AA_lead",70.13,2702.12462569514,TRUE
+"609","SE","USD","US","remote","US","L","Data Science Manager","MEDIUM","AA_lead",70.13,1997.71852274348,TRUE
+"610","SE","USD","US","remote","US","L","Data Engineer","HIGH","DE",70.13,2532.43975474119,TRUE
+"611","SE","USD","US","remote","US","L","Data Engineer","MEDIUM","DE",70.13,1872.23727363468,TRUE
+"612","MI","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,342.22158847854,TRUE
+"613","MI","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,342.22158847854,TRUE
+"614","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3564.80821331812,TRUE
+"615","SE","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,898.331669756167,TRUE
+"616","SE","USD","US","remote","US","L","Machine Learning Engineer","HIGH","AA",70.13,2893.19834592899,TRUE
+"617","SE","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,1872.23727363468,TRUE
+"618","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2067.58876372451,TRUE
+"619","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1639.81177812634,TRUE
+"620","EN","USD","US","partial","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,1639.81177812634,TRUE
+"621","MI","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,2764.86525024954,TRUE
+"622","MI","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1843.71880792813,TRUE
+"623","SE","USD","US","remote","US","L","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"624","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"625","MI","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,3082.84614287751,TRUE
+"626","MI","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2054.75545415657,TRUE
+"627","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,3079.99429630686,TRUE
+"628","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2053.32953087124,TRUE
+"629","EN","USD","US","remote","US","L","Data Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"631","MI","INR","IN","remote","ID","L","Data Scientist","LOW","AA",24.43,2205.36225951699,FALSE
+"632","EN","USD","AT","partial","AT","M","Applied Data Scientist","LOW","AA",71.04,703.828828828829,TRUE
+"634","EX","EUR","NL","in-place","NL","L","Research Scientist","LOW","AA",75.66,1113.25667459688,TRUE
+"635","MI","GBP","GB","remote","GB","M","Data Scientist","MEDIUM","AA",69.65,1902.7135678392,TRUE
+"636","SE","USD","AR","remote","US","S","Data Analyst","LOW","DA",34.69,1383.68405880657,FALSE
+"637","EX","USD","US","in-place","US","M","Data Science Manager","HIGH","AA_lead",70.13,3714.53015827749,TRUE
+"638","EX","USD","US","in-place","US","M","Data Science Manager","HIGH","AA_lead",70.13,2496.79167260801,TRUE
+"639","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2994.43889918722,TRUE
+"640","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"641","EN","USD","US","remote","US","S","Data Analyst","LOW","DA",70.13,784.257806929987,TRUE
+"642","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1853.70027092542,TRUE
+"643","SE","EUR","FR","remote","GB","L","Applied Machine Learning Scientist","LOW","AA",74.13,1042.49291784703,FALSE
+"644","EN","EUR","BE","partial","BE","S","Data Scientist","LOW","AA",72.61,717.766147913511,TRUE
+"646","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2947.36917153857,TRUE
+"647","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1413.0899757593,TRUE
+"648","MI","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,2851.8465706545,TRUE
+"649","MI","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,769.998574076715,TRUE
+"650","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3564.80821331812,TRUE
+"651","SE","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,898.331669756167,TRUE
+"652","SE","USD","US","in-place","US","M","Data Architect","HIGH","DE",70.13,3564.80821331812,TRUE
+"653","SE","USD","US","in-place","US","M","Data Architect","LOW","DE",70.13,898.331669756167,TRUE
+"654","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3564.80821331812,TRUE
+"655","SE","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,898.331669756167,TRUE
+"656","EN","USD","US","partial","US","L","Data Analyst","MEDIUM","DA",70.13,1853.70027092542,TRUE
+"657","SE","USD","US","in-place","US","L","Data Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"658","SE","USD","US","in-place","US","L","Data Engineer","LOW","DE",70.13,1140.7386282618,TRUE
+"659","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"660","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,1425.92328532725,TRUE
+"661","SE","USD","US","remote","US","L","Data Specialist","HIGH","DE",70.13,3155.5682304292,TRUE
+"662","SE","USD","US","remote","US","L","Data Specialist","MEDIUM","DE",70.13,2120.34792528162,TRUE
+"663","EN","USD","GB","remote","GB","L","Machine Learning Engineer","LOW","AA",69.65,430.725053840632,TRUE
+"664","EN","EUR","FR","partial","FR","M","Data Analyst","LOW","DA",74.13,383.474976392823,TRUE
+"665","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1315.89375448672,TRUE
+"666","MI","GBP","GB","in-place","GB","M","Data Engineer","LOW","DE",69.65,889.117013639627,TRUE
+"667","MI","EUR","DE","remote","DE","S","Data Scientist","LOW","AA",65.58,931.168039036292,TRUE
+"668","SE","USD","US","in-place","US","M","Data Science Manager","HIGH","AA_lead",70.13,3554.2563810067,TRUE
+"669","SE","USD","US","in-place","US","M","Data Science Manager","HIGH","AA_lead",70.13,2643.66177099672,TRUE
+"670","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2424.06958505632,TRUE
+"671","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"672","MI","GBP","GB","partial","GB","M","Data Scientist","LOW","AA",69.65,1155.85068198134,TRUE
+"673","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1837.65863396549,TRUE
+"674","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1336.09011835163,TRUE
+"675","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2566.66191358905,TRUE
+"676","SE","USD","US","remote","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1425.92328532725,TRUE
+"677","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1942.96306858691,TRUE
+"678","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1558.24896620562,TRUE
+"679","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"680","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,1311.84942250107,TRUE
+"681","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2851.8465706545,TRUE
+"682","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"683","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1956.06604450826,TRUE
+"684","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1511.50035893754,TRUE
+"685","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1668.33024383288,TRUE
+"686","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1418.08070725795,TRUE
+"687","EN","INR","IN","in-place","IN","S","AI Scientist","LOW","AA",24.43,125.992632009824,TRUE
+"688","EN","USD","US","remote","US","L","Data Engineer","MEDIUM","DE",70.13,1839.44103807215,TRUE
+"689","EN","USD","US","remote","US","L","Data Engineer","LOW","DE",70.13,1226.29402538143,TRUE
+"692","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"693","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,1701.12647939541,TRUE
+"694","SE","USD","US","remote","US","L","BI Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"695","MI","USD","TR","partial","TR","M","Data Scientist","LOW","AA",28.31,883.080183680678,TRUE
+"696","MI","SGD","SG","partial","SG","M","Data Analyst","LOW","DA",83.98,775.910931174089,TRUE
+"697","MI","USD","US","remote","US","M","AI Scientist","HIGH","AA",70.13,2851.8465706545,TRUE
+"698","EN","USD","US","remote","US","L","Machine Learning Engineer","HIGH","AA",70.13,2566.66191358905,TRUE
+"699","MI","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,2181.66262655069,TRUE
+"700","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2994.43889918722,TRUE
+"701","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"702","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2139.95437045487,TRUE
+"703","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1581.70540424925,TRUE
+"704","MI","USD","EG","remote","EG","M","Machine Learning Engineer","LOW","AA",29.52,772.357723577236,TRUE
+"705","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"706","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,1311.84942250107,TRUE
+"707","SE","USD","US","remote","US","L","Machine Learning Engineer","HIGH","AA",70.13,2893.19834592899,TRUE
+"708","SE","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,1872.23727363468,TRUE
+"710","EN","USD","ID","in-place","ID","L","Data Analyst","LOW","DA",35.85,418.410041841004,TRUE
+"711","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2495.36574932269,TRUE
+"712","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"713","SE","AUD","AU","remote","AU","L","Data Science Manager","MEDIUM","AA_lead",77.75,1733.35048231511,TRUE
+"714","EN","USD","US","in-place","US","L","Machine Learning Engineer","LOW","AA",70.13,1183.51632682162,TRUE
+"715","MI","GBP","GB","remote","GB","M","Data Engineer","MEDIUM","DE",69.65,1333.68269921034,TRUE
+"716","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,978.033022254128,TRUE
+"717","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2652.21731070868,TRUE
+"718","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2121.77384856695,TRUE
+"719","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1609.86738913446,TRUE
+"720","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1287.89391130757,TRUE
+"721","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,3422.2158847854,TRUE
+"722","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"723","SE","USD","US","remote","US","M","Data Science Manager","HIGH","AA_lead",70.13,4277.76985598175,TRUE
+"724","SE","USD","US","remote","US","M","Data Science Manager","HIGH","AA_lead",70.13,2851.8465706545,TRUE
+"725","MI","EUR","DE","partial","DE","S","Data Engineer","LOW","DE",65.58,1003.41567551083,TRUE
+"726","MI","USD","IN","remote","US","L","AI Scientist","HIGH","AA",24.43,8186.65575112567,FALSE
+"727","MI","GBP","GB","in-place","GB","M","Machine Learning Engineer","MEDIUM","AA",69.65,1689.33237616655,TRUE
+"728","MI","GBP","GB","in-place","GB","M","Machine Learning Engineer","MEDIUM","AA",69.65,1333.68269921034,TRUE
+"729","MI","USD","US","in-place","US","M","AI Scientist","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"730","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1609.86738913446,TRUE
+"731","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1287.89391130757,TRUE
+"732","SE","USD","US","remote","US","M","Data Analytics Manager","MEDIUM","DA_lead",70.13,2067.58876372451,TRUE
+"733","SE","USD","US","remote","US","M","Data Analytics Manager","MEDIUM","DA_lead",70.13,1502.92314273492,TRUE
+"735","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1600.41636755205,TRUE
+"736","MI","GBP","GB","in-place","GB","M","Data Engineer","MEDIUM","DE",69.65,1333.68269921034,TRUE
+"737","SE","USD","US","remote","US","L","Data Scientist","HIGH","AA",70.13,3070.01283330957,TRUE
+"738","SE","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,2255.81063738771,TRUE
+"739","SE","USD","US","remote","US","L","Data Engineer","HIGH","DE",70.13,2981.60558961928,TRUE
+"740","SE","USD","US","remote","US","L","Data Engineer","MEDIUM","DE",70.13,2204.47739911593,TRUE
+"741","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1653.12990161129,TRUE
+"742","SE","USD","US","in-place","US","M","Data Analyst","LOW","DA",70.13,1164.49451019535,TRUE
+"743","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2495.36574932269,TRUE
+"744","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2210.18109225724,TRUE
+"745","MI","EUR","FR","remote","DE","M","Machine Learning Engineer","LOW","AA",74.13,1136.23364359908,FALSE
+"746","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,2338.51418793669,TRUE
+"747","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1882.21873663197,TRUE
+"748","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2424.06958505632,TRUE
+"749","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1753.88564095252,TRUE
+"750","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,2704.26351062313,TRUE
+"751","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2352.71638385855,TRUE
+"752","MI","EUR","GR","in-place","GR","M","ETL Developer","LOW","DE",56.22,936.374955531839,TRUE
+"753","MI","EUR","GR","in-place","GR","M","ETL Developer","LOW","DE",56.22,936.374955531839,TRUE
+"754","EX","CAD","CA","remote","CA","S","Lead Data Engineer","MEDIUM","DE_lead",70.22,1652.99060096839,TRUE
+"755","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2358.47711393127,TRUE
+"756","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1886.78169114502,TRUE
+"757","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,2976.97133894197,TRUE
+"758","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,2107.51461571367,TRUE
+"759","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1953.42934550121,TRUE
+"760","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1448.31028090689,TRUE
+"761","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1837.65863396549,TRUE
+"762","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1336.09011835163,TRUE
+"763","EX","INR","IN","partial","IN","L","Head of Machine Learning","LOW","AA_lead",24.43,3150.51166598445,TRUE
+"764","EN","GBP","GB","remote","GB","L","Machine Learning Engineer","LOW","AA",69.65,506.791098348887,TRUE
+"765","SE","USD","US","remote","US","L","Data Engineer","HIGH","DE",70.13,2617.99515186083,TRUE
+"766","SE","USD","US","remote","US","L","Data Engineer","MEDIUM","DE",70.13,1437.33067160987,TRUE
+"767","MI","GBP","GB","remote","GB","M","Data Analyst","LOW","DA",69.65,711.299353912419,TRUE
+"768","MI","GBP","GB","remote","GB","M","Data Analyst","LOW","DA",69.65,533.467336683417,TRUE
+"769","MI","EUR","ES","remote","ES","M","Data Analyst","LOW","DA",53.88,781.62583518931,TRUE
+"770","MI","EUR","ES","remote","ES","M","Data Analyst","LOW","DA",53.88,586.2286562732,TRUE
+"771","MI","EUR","ES","remote","ES","M","Data Engineer","LOW","DE",53.88,1563.27023014105,TRUE
+"772","MI","EUR","ES","remote","ES","M","Data Engineer","LOW","DE",53.88,1367.87305122494,TRUE
+"773","MI","GBP","GB","remote","GB","M","Data Engineer","MEDIUM","DE",69.65,1422.59870782484,TRUE
+"774","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,1244.76669059584,TRUE
+"775","MI","EUR","GR","remote","GR","M","Data Engineer","LOW","DE",56.22,1498.20348630381,TRUE
+"776","MI","EUR","GR","remote","GR","M","Data Engineer","LOW","DE",56.22,1310.93916755603,TRUE
+"777","SE","USD","US","in-place","US","M","Machine Learning Engineer","HIGH","AA",70.13,2704.26351062313,TRUE
+"778","SE","USD","US","in-place","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2352.71638385855,TRUE
+"779","MI","EUR","GR","remote","GR","M","Data Analyst","LOW","DA",56.22,749.092849519744,TRUE
+"780","MI","EUR","GR","remote","GR","M","Data Analyst","LOW","DA",56.22,561.828530771967,TRUE
+"781","MI","GBP","GB","remote","GB","M","Data Engineer","MEDIUM","DE",69.65,1333.68269921034,TRUE
+"782","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,1066.94903086863,TRUE
+"783","SE","USD","US","in-place","US","L","Data Scientist","HIGH","AA",70.13,3070.01283330957,TRUE
+"784","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2001.99629259946,TRUE
+"785","MI","EUR","ES","remote","ES","M","Data Engineer","LOW","DE",53.88,1172.4573125464,TRUE
+"786","MI","EUR","ES","remote","ES","M","Data Engineer","LOW","DE",53.88,879.3429844098,TRUE
+"787","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,3707.40054185085,TRUE
+"788","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"789","MI","GBP","GB","in-place","GB","M","Data Scientist","LOW","AA",69.65,978.033022254128,TRUE
+"790","MI","GBP","GB","in-place","GB","M","Data Scientist","LOW","AA",69.65,622.383345297918,TRUE
+"791","MI","EUR","GR","remote","GR","M","Data Engineer","LOW","DE",56.22,1123.65706154393,TRUE
+"792","MI","EUR","GR","remote","GR","M","Data Engineer","LOW","DE",56.22,842.742796157951,TRUE
+"793","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,1066.94903086863,TRUE
+"794","MI","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,800.201005025126,TRUE
+"796","SE","USD","AR","remote","MX","L","Data Scientist","LOW","AA",34.69,1729.60507350822,FALSE
+"797","MI","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,1182.09040353629,TRUE
+"798","MI","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,911.164979324112,TRUE
+"799","MI","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"800","MI","USD","US","remote","US","L","Machine Learning Engineer","MEDIUM","AA",70.13,1601.3118494225,TRUE
+"801","MI","USD","US","remote","US","M","Data Science Manager","HIGH","AA_lead",70.13,3436.47511763867,TRUE
+"802","MI","USD","US","remote","US","M","Data Science Manager","MEDIUM","AA_lead",70.13,2267.21802367033,TRUE
+"803","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"804","SE","USD","US","in-place","US","M","Data Scientist","LOW","AA",70.13,1140.7386282618,TRUE
+"805","MI","USD","US","in-place","US","S","Data Analyst","LOW","DA",70.13,827.035505489805,TRUE
+"806","MI","USD","US","in-place","US","S","Data Analyst","LOW","DA",70.13,827.035505489805,TRUE
+"807","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1939.25566804506,TRUE
+"808","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1551.40453443605,TRUE
+"809","EX","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3450.73435049194,TRUE
+"810","EX","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2851.8465706545,TRUE
+"811","MI","GBP","GB","in-place","GB","M","Data Scientist","LOW","AA",69.65,889.117013639627,TRUE
+"812","MI","GBP","GB","in-place","GB","M","Data Scientist","LOW","AA",69.65,533.467336683417,TRUE
+"813","MI","GBP","GB","in-place","GB","M","Data Engineer","LOW","DE",69.65,1066.94903086863,TRUE
+"814","MI","GBP","GB","in-place","GB","M","Data Engineer","LOW","DE",69.65,711.299353912419,TRUE
+"815","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2355.91045201768,TRUE
+"816","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1713.38941964922,TRUE
+"817","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1770.85412804791,TRUE
+"818","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1287.89391130757,TRUE
+"819","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2594.3248253244,TRUE
+"820","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1886.78169114502,TRUE
+"821","SE","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,3138.59974333381,TRUE
+"822","SE","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,2282.61799515186,TRUE
+"823","SE","USD","US","in-place","US","L","Data Scientist","HIGH","AA",70.13,2566.66191358905,TRUE
+"824","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"825","MI","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1803.79295593897,TRUE
+"826","MI","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1515.18608298874,TRUE
+"827","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1654.07101097961,TRUE
+"828","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1411.66405247398,TRUE
+"829","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2210.18109225724,TRUE
+"830","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1719.66348210466,TRUE
+"831","MI","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1853.70027092542,TRUE
+"832","MI","USD","US","in-place","US","M","Data Scientist","LOW","AA",70.13,1283.33095679452,TRUE
+"833","MI","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2424.06958505632,TRUE
+"834","MI","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2138.88492799087,TRUE
+"835","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1455.86767431912,TRUE
+"836","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,1210.60886924283,TRUE
+"837","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1948.09639241409,TRUE
+"838","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1416.79737630116,TRUE
+"839","SE","GBP","GB","in-place","GB","M","Data Scientist","MEDIUM","AA",69.65,1600.41636755205,TRUE
+"840","SE","GBP","GB","in-place","GB","M","Data Scientist","MEDIUM","AA",69.65,1422.59870782484,TRUE
+"841","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2081.84799657778,TRUE
+"842","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1753.88564095252,TRUE
+"843","EN","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,711.299353912419,TRUE
+"844","EN","GBP","GB","remote","GB","M","Data Engineer","LOW","DE",69.65,622.383345297918,TRUE
+"845","EX","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1853.70027092542,TRUE
+"846","EX","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1568.51561385997,TRUE
+"847","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2424.06958505632,TRUE
+"848","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1924.99643519179,TRUE
+"849","SE","USD","US","remote","US","M","Data Science Manager","MEDIUM","AA_lead",70.13,2300.61314701269,TRUE
+"850","SE","USD","US","remote","US","M","Data Science Manager","MEDIUM","AA_lead",70.13,1955.52545273064,TRUE
+"851","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2381.29188649651,TRUE
+"852","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1753.88564095252,TRUE
+"853","SE","GBP","GB","in-place","GB","M","Data Engineer","LOW","DE",69.65,1066.94903086863,TRUE
+"854","SE","GBP","GB","in-place","GB","M","Data Engineer","LOW","DE",69.65,889.117013639627,TRUE
+"855","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,3015.82774846713,TRUE
+"856","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1976.32967346357,TRUE
+"857","SE","USD","CA","remote","CA","M","Data Architect","HIGH","DE",70.22,2739.96012532042,TRUE
+"858","SE","USD","CA","remote","CA","M","Data Architect","MEDIUM","DE",70.22,1291.65479920251,TRUE
+"859","SE","USD","CA","remote","CA","M","Data Analyst","MEDIUM","DA",70.22,1851.32440900028,TRUE
+"860","SE","USD","CA","remote","CA","M","Data Analyst","LOW","DA",70.22,872.970663628596,TRUE
+"861","SE","USD","CA","remote","CA","M","Data Analyst","MEDIUM","DA",70.22,1851.32440900028,TRUE
+"862","SE","USD","CA","remote","CA","M","Data Analyst","LOW","DA",70.22,872.970663628596,TRUE
+"863","SE","USD","US","in-place","US","L","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"864","SE","USD","US","in-place","US","L","Data Engineer","MEDIUM","DE",70.13,1611.29331241979,TRUE
+"865","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2138.88492799087,TRUE
+"866","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1362.46969913019,TRUE
+"867","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2381.29188649651,TRUE
+"868","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1646.94139455297,TRUE
+"869","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1609.86738913446,TRUE
+"870","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1287.89391130757,TRUE
+"871","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1609.86738913446,TRUE
+"872","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1287.89391130757,TRUE
+"873","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2358.47711393127,TRUE
+"874","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1886.78169114502,TRUE
+"875","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3477.82689291316,TRUE
+"876","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2232.99586482247,TRUE
+"877","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1947.81120775702,TRUE
+"878","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1558.24896620562,TRUE
+"879","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1837.65863396549,TRUE
+"880","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1336.09011835163,TRUE
+"881","EX","USD","US","remote","US","M","Head of Data Science","HIGH","AA_lead",70.13,3194.06815913304,TRUE
+"882","EX","USD","US","remote","US","M","Head of Data Science","MEDIUM","AA_lead",70.13,2393.76871524312,TRUE
+"883","EX","USD","US","remote","US","M","Data Analyst","HIGH","DA",70.13,2495.36574932269,TRUE
+"884","EX","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1924.99643519179,TRUE
+"885","SE","USD","US","remote","US","L","Data Engineer","HIGH","DE",70.13,2981.60558961928,TRUE
+"886","SE","USD","US","remote","US","L","Data Engineer","MEDIUM","DE",70.13,2204.47739911593,TRUE
+"887","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2566.66191358905,TRUE
+"888","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"889","SE","USD","US","in-place","US","L","Data Scientist","HIGH","AA",70.13,2927.42050477684,TRUE
+"890","SE","USD","US","in-place","US","L","Data Scientist","MEDIUM","AA",70.13,2001.99629259946,TRUE
+"891","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2509.62498217596,TRUE
+"892","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2053.32953087124,TRUE
+"893","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2853.27249393983,TRUE
+"894","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2281.4772565236,TRUE
+"895","SE","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,1005.27591615571,TRUE
+"896","SE","USD","US","in-place","US","M","Data Engineer","LOW","DE",70.13,769.998574076715,TRUE
+"897","SE","USD","US","in-place","US","M","Data Scientist","HIGH","AA",70.13,2927.42050477684,TRUE
+"898","SE","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2001.99629259946,TRUE
+"899","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,2927.42050477684,TRUE
+"900","SE","USD","US","in-place","US","M","Data Analyst","HIGH","DA",70.13,2633.68030799943,TRUE
+"901","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2496.79167260801,TRUE
+"902","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1999.85740767147,TRUE
+"903","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1656.2098959076,TRUE
+"904","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1412.37701411664,TRUE
+"905","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2067.58876372451,TRUE
+"906","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"907","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1609.86738913446,TRUE
+"908","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1287.89391130757,TRUE
+"909","MI","USD","CA","in-place","CA","M","Data Analyst","LOW","DA",70.22,1210.48134434634,TRUE
+"910","MI","USD","CA","in-place","CA","M","Data Analyst","LOW","DA",70.22,1068.07177442324,TRUE
+"911","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,3051.47583060031,TRUE
+"912","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,2746.32824754028,TRUE
+"913","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,3798.65963211179,TRUE
+"914","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,3038.92770568943,TRUE
+"915","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2210.18109225724,TRUE
+"916","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1639.81177812634,TRUE
+"917","MI","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,2014.8296021674,TRUE
+"918","MI","USD","US","in-place","US","M","Data Scientist","MEDIUM","AA",70.13,1455.86767431912,TRUE
+"919","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1653.12990161129,TRUE
+"920","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,1164.49451019535,TRUE
+"921","MI","USD","US","in-place","US","M","Data Engineer","HIGH","DE",70.13,2947.36917153857,TRUE
+"922","MI","USD","US","in-place","US","M","Data Engineer","MEDIUM","DE",70.13,1413.0899757593,TRUE
+"923","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1853.70027092542,TRUE
+"924","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1575.64523028661,TRUE
+"925","MI","GBP","GB","in-place","GB","M","Data Analyst","LOW","DA",69.65,889.117013639627,TRUE
+"926","MI","GBP","GB","in-place","GB","M","Data Analyst","LOW","DA",69.65,622.383345297918,TRUE
+"927","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,1140.7386282618,TRUE
+"928","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,855.55397119635,TRUE
+"929","SE","USD","US","remote","US","M","Data Architect","HIGH","DE",70.13,2745.81491515756,TRUE
+"930","SE","USD","US","remote","US","M","Data Architect","MEDIUM","DE",70.13,2065.50691572793,TRUE
+"931","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,3279.62355625267,TRUE
+"932","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2138.88492799087,TRUE
+"933","SE","USD","US","remote","US","M","Data Analytics Manager","MEDIUM","DA_lead",70.13,2142.59232853272,TRUE
+"934","SE","USD","US","remote","US","M","Data Analytics Manager","MEDIUM","DA_lead",70.13,1558.24896620562,TRUE
+"935","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2424.06958505632,TRUE
+"936","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2138.88492799087,TRUE
+"937","MI","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2281.4772565236,TRUE
+"938","MI","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1853.70027092542,TRUE
+"939","EN","USD","CA","in-place","CA","M","Data Analyst","LOW","DA",70.22,954.144118484762,TRUE
+"940","EN","USD","CA","in-place","CA","M","Data Analyst","LOW","DA",70.22,740.529763600114,TRUE
+"941","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2195.92185940396,TRUE
+"942","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1796.66333951233,TRUE
+"943","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1839.44103807215,TRUE
+"944","SE","USD","US","in-place","US","M","Data Analyst","MEDIUM","DA",70.13,1411.66405247398,TRUE
+"945","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2994.43889918722,TRUE
+"946","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"947","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2994.43889918722,TRUE
+"948","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"949","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2994.43889918722,TRUE
+"950","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"951","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"952","SE","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,983.887066875802,TRUE
+"953","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2994.43889918722,TRUE
+"954","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"955","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2139.95437045487,TRUE
+"956","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1581.70540424925,TRUE
+"957","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"958","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,356.480821331812,TRUE
+"959","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1803.79295593897,TRUE
+"960","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1515.18608298874,TRUE
+"961","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3138.59974333381,TRUE
+"962","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,2282.61799515186,TRUE
+"963","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1497.21944959361,TRUE
+"964","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"965","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,2424.06958505632,TRUE
+"966","SE","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1924.99643519179,TRUE
+"967","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,3279.62355625267,TRUE
+"968","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"969","MI","USD","US","remote","US","M","Data Analyst","MEDIUM","DA",70.13,1924.99643519179,TRUE
+"970","MI","USD","US","remote","US","M","Data Analyst","LOW","DA",70.13,712.961642663625,TRUE
+"971","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,3137.03122771995,TRUE
+"972","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1996.29259945815,TRUE
+"973","MI","GBP","GB","in-place","GB","M","Data Scientist","HIGH","AA",69.65,2489.54773869347,TRUE
+"974","MI","GBP","GB","in-place","GB","M","Data Scientist","LOW","AA",69.65,1244.76669059584,TRUE
+"975","SE","USD","US","remote","US","M","Machine Learning Engineer","HIGH","AA",70.13,3137.03122771995,TRUE
+"976","SE","USD","US","remote","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"977","MI","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2851.8465706545,TRUE
+"978","MI","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"979","SE","USD","AE","remote","AE","S","Machine Learning Engineer","MEDIUM","AA",58.33,2057.26041488085,TRUE
+"980","SE","USD","AE","remote","AE","S","Machine Learning Engineer","LOW","AA",58.33,1114.34939139379,TRUE
+"981","EX","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,4619.99144446029,TRUE
+"982","EX","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,3079.99429630686,TRUE
+"983","SE","USD","US","remote","US","M","Data Engineer","HIGH","DE",70.13,2994.43889918722,TRUE
+"984","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1425.92328532725,TRUE
+"985","SE","USD","US","remote","US","M","Data Scientist","HIGH","AA",70.13,2639.38400114074,TRUE
+"986","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,1495.65093397975,TRUE
+"987","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1497.21944959361,TRUE
+"988","SE","USD","US","remote","US","M","Data Engineer","LOW","DE",70.13,1140.7386282618,TRUE
+"989","MI","CAD","CA","remote","CA","M","Machine Learning Engineer","LOW","AA",70.22,1101.99373397892,TRUE
+"991","EX","CAD","CA","partial","CA","L","Director of Data Science","HIGH","AA_lead",70.22,2754.98433494731,TRUE
+"992","MI","USD","US","remote","US","S","Machine Learning Engineer","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"993","MI","CNY","US","partial","US","L","NLP Engineer","LOW","AA",70.13,513.161271923571,TRUE
+"994","MI","INR","IN","remote","IN","M","BI Analyst","LOW","DA",24.43,735.120753172329,TRUE
+"995","MI","INR","IN","remote","IN","L","Data Scientist","LOW","AA",24.43,1260.21285304953,TRUE
+"996","MI","EUR","PT","partial","PT","L","Machine Learning Infrastructure Engineer","LOW","AA",47.94,1163.99666249479,TRUE
+"998","EN","INR","IN","remote","IN","M","Data Scientist","LOW","AA",24.43,735.120753172329,TRUE
+"999","MI","USD","BO","remote","US","L","Applied Machine Learning Scientist","LOW","AA",34.77,2157.03192407248,FALSE
+"1000","MI","USD","US","remote","US","L","Applied Data Scientist","MEDIUM","AA",70.13,2238.69955796378,TRUE
+"1001","MI","CAD","CA","partial","CA","L","BI Analyst","LOW","DA",70.22,991.782967815437,TRUE
+"1002","EN","USD","US","remote","US","S","Data Engineer","LOW","DE",70.13,926.850135462712,TRUE
+"1003","SE","EUR","IE","remote","IE","S","Machine Learning Engineer","LOW","AA",76.05,899.881656804734,TRUE
+"1005","MI","CAD","CA","remote","CA","M","Data Scientist","LOW","AA",70.22,969.752207348334,TRUE
+"1006","EN","USD","PT","remote","LU","M","Computer Vision Engineer","LOW","AA",47.94,208.594075928244,FALSE
+"1007","MI","USD","GR","remote","GR","S","Data Analyst","LOW","DA",56.22,355.745286374956,TRUE
+"1009","SE","USD","MY","remote","US","M","Head of Data","HIGH","DE_lead",37.02,5402.48514316586,FALSE
+"1010","EN","CAD","CA","remote","CA","L","Data Scientist","LOW","AA",70.22,732.825405867274,TRUE
+"1011","MI","USD","US","remote","US","M","Data Scientist","LOW","AA",70.13,1112.22016255525,TRUE
+"1012","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1924.99643519179,TRUE
+"1013","SE","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1639.81177812634,TRUE
+"1014","MI","AUD","AU","remote","AU","L","Machine Learning Engineer","LOW","AA",77.75,1086.70096463023,TRUE
+"1015","EN","USD","JP","remote","MY","L","Data Scientist","LOW","AA",77.03,519.278203297417,FALSE
+"1016","MI","EUR","EE","remote","EE","S","Head of Data","LOW","DE_lead",53.68,588.412816691505,TRUE
+"1017","SE","EUR","NL","remote","NL","L","Machine Learning Engineer","LOW","AA",75.66,793.193232883955,TRUE
+"1019","SE","EUR","FR","partial","FR","L","Research Scientist","LOW","AA",74.13,1207.25752057197,TRUE
+"1020","EN","AUD","AU","partial","AU","M","Data Scientist","LOW","AA",77.75,1077.72347266881,TRUE
+"1021","SE","USD","US","remote","US","M","Data Scientist","MEDIUM","AA",70.13,2352.77342078996,TRUE
+"1022","MI","USD","US","partial","US","M","Machine Learning Engineer","MEDIUM","AA",70.13,2181.66262655069,TRUE
+"1023","SE","USD","BR","remote","US","M","Data Scientist","MEDIUM","AA",33.24,3008.42358604091,FALSE
+"1024","SE","CAD","CA","remote","CA","M","Machine Learning Engineer","LOW","AA",70.22,1101.99373397892,TRUE
+"1025","MI","PLN","PL","remote","PL","L","Data Scientist","LOW","AA",38.95,864.724005134788,TRUE
+"1026","MI","USD","CA","remote","CA","S","Principal Data Analyst","LOW","DA",70.22,1068.07177442324,TRUE
+"1030","EN","EUR","PK","remote","DE","M","Data Engineer","LOW","DE",19.92,2790.71285140562,FALSE
+"1031","MI","EUR","AT","in-place","AT","L","Research Scientist","LOW","AA",71.04,874.42286036036,TRUE
+"1032","SE","USD","US","remote","US","M","Data Science Manager","MEDIUM","AA_lead",70.13,2174.53301012406,TRUE
+"1033","EN","USD","US","remote","US","L","Research Scientist","MEDIUM","AA",70.13,1711.1079423927,TRUE
+"1034","MI","USD","US","remote","US","L","Data Scientist","MEDIUM","AA",70.13,1924.99643519179,TRUE
+"1035","SE","USD","US","remote","US","L","Data Analytics Lead","HIGH","DA_lead",70.13,5774.98930557536,TRUE
+"1040","SE","USD","US","remote","US","L","Applied Data Scientist","HIGH","AA",70.13,5418.50848424355,TRUE
+"1041","MI","CHF","CH","in-place","CH","L","Data Scientist","MEDIUM","AA",123.35,974.633157681394,TRUE
+"1042","SE","USD","US","remote","US","L","Applied Data Scientist","HIGH","AA",70.13,2523.88421502923,TRUE
+"1043","MI","EUR","FR","remote","FR","M","Data Engineer","LOW","DE",74.13,880.588155942264,TRUE
+"1044","MI","USD","RU","remote","US","S","Data Scientist","LOW","AA",35.26,1361.31593874078,FALSE
+"1045","EN","USD","PK","in-place","PK","M","Data Analyst","LOW","DA",19.92,1004.01606425703,TRUE
+"1049","EN","USD","AU","remote","AU","S","Computer Vision Engineer","MEDIUM","AA",77.75,1929.26045016077,TRUE
+"1054","SE","USD","US","partial","US","L","Research Scientist","MEDIUM","AA",70.13,2053.32953087124,TRUE
+"1055","SE","EUR","DE","remote","DE","M","Principal Data Scientist","MEDIUM","AA",65.58,2376.1055199756,TRUE
+"1058","EN","USD","US","partial","US","L","Financial Data Analyst","MEDIUM","DA",70.13,1425.92328532725,TRUE
+"1062","EN","USD","US","remote","US","M","Data Engineer","MEDIUM","DE",70.13,1711.1079423927,TRUE
+"1063","SE","EUR","DE","in-place","DE","M","Lead Machine Learning Engineer","LOW","AA_lead",65.58,1284.37023482769,TRUE
+"1065","EN","USD","US","in-place","US","M","Computer Vision Engineer","MEDIUM","AA",70.13,1782.40410665906,TRUE
+"1070","EN","EUR","PT","remote","PT","L","Machine Learning Engineer","LOW","AA",47.94,439.236545682103,TRUE
