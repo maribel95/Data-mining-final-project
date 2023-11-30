@@ -12,4 +12,8 @@ Items to be included in the report:
 6. Final conclusions.
 
 
+This project aims to discover the factors or patterns that can help find a well-paying job in the field of Artificial Intelligence, Machine Learning and Big Data. It is focused on extracting information from the past year, which is considered the best approximation for the next year, in which you want to find a job. Specifically, it seeks to discover how to find a full-time job.
+To do so, different Data Mining techniques will be used, including both supervised and unsupervised learning. These cover classification techniques such as Decision Trees and Naive Bayes. Clustering techniques, such as k-modes, and Association rules with Apriori method, are also employed. All these methods will help to answer a series of questions, the answers to which will provide us with the necessary information to obtain the knowledge we are looking for.
+
+
 
